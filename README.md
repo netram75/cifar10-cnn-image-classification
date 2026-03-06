@@ -5,6 +5,13 @@ The model is trained using deep learning techniques including **data augmentatio
 
 ---
 
+## Live Demo
+
+Try the deployed AI application:
+
+https://cifar10-cnn-image-classification-lpsdcqvwtfx3ypqglgadsv.streamlit.app/
+
+---
 ## Project Overview
 
 The goal of this project is to build a deep learning model capable of classifying images into one of the **10 CIFAR-10 classes**.
