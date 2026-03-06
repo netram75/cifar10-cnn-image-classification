@@ -94,21 +94,6 @@ https://www.kaggle.com/code/netramfaran/cifar-10-image-classification-using-cnn
 
 ---
 
-## Repository Structure
-cifar10-cnn-image-classification
-│
-├── notebook
-│ └── cifar10_cnn_kaggle.ipynb
-│
-├── model
-│ └── cifar10_cnn_model.h5
-│
-├── app
-│ └── app.py
-│
-└── README.md
-
----
 
 ## Future Improvements
 
